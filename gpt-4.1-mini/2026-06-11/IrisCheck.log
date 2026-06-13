@@ -1,0 +1,301 @@
+Processing item with id: 1 (index: 0), found 7 IRIs:
+  IRI: https://w3id.org/steel/ProcessOntology/LowerYieldStrength
+  Check:     reachable=True     title in result=True     title='LowerYieldStrength'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/LowerYieldStrength.ttl
+  --------------------
+  Context: s:
+Lower Yield Strength (IRI: https://w3id.org/steel/ProcessOntology/LowerYieldStrength)
+This class represents the yi
+  IRI: https://w3id.org/steel/ProcessOntology/SpecimenWidth
+  Check:     reachable=True     title in result=True     title='SpecimenWidth'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/SpecimenWidth.ttl
+  --------------------
+  Context: e class:
+Specimen Width (IRI: https://w3id.org/steel/ProcessOntology/SpecimenWidth)
+There is a property to link 
+  IRI: https://w3id.org/steel/ProcessOntology/hasSpecimenWidth_Object
+  Check:     reachable=True     title in result=True     title='hasSpecimenWidth_Object'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/hasSpecimenWidth_Object.ttl
+  --------------------
+  Context: width:
+hasSpecimenWidth (IRI: https://w3id.org/steel/ProcessOntology/hasSpecimenWidth_Object) which links an entity (e.g.,
+  IRI: https://w3id.org/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb
+  Check:     reachable=True     title in result=True     title='EMMO_463bcfda_867b_41d9_a967_211d4d437cfb'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb
+  --------------------
+  Context: properties:
+Measurement (IRI: https://w3id.org/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb) - represents the measurement
+  IRI: https://w3id.org/emmo#EMMO_fd689787_31b0_41cf_bf03_0d69af76469d
+  Check:     reachable=True     title in result=True     title='EMMO_fd689787_31b0_41cf_bf03_0d69af76469d'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_fd689787_31b0_41cf_bf03_0d69af76469d
+  --------------------
+  Context: "Has Measured Property" (IRI: https://w3id.org/emmo#EMMO_fd689787_31b0_41cf_bf03_0d69af76469d) assigns a quantity to an obj
+  IRI: http://purl.obolibrary.org/obo/IAO_0000221
+  Check:     reachable=True     title in result=True     title='IAO_0000221'     final_url=https://ontobee.org/ontology/IAO?iri=http://purl.obolibrary.org/obo/IAO_0000221
+  --------------------
+  Context: quality measurement of" (IRI: http://purl.obolibrary.org/obo/IAO_0000221) links a measurement datum to
+  IRI: https://w3id.org/steel/ProcessOntology/hasMeasuringDevice
+  Check:     reachable=True     title in result=True     title='hasMeasuringDevice'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/hasMeasuringDevice.ttl
+  --------------------
+  Context:  "Has Measuring Device" (IRI: https://w3id.org/steel/ProcessOntology/hasMeasuringDevice) can be used to indicate the 
+  Summary: 7/7 IRIs are reachable, 7/7 responses contain the title.
+  ====================
+Processing item with id: 2 (index: 1), found 3 IRIs:
+  IRI: https://w3id.org/pmd/co/PMD_0000779
+  Check:     reachable=True     title in result=True     title='PMD_0000779'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: ment:
+From PMD Core Ontology: https://w3id.org/pmd/co/PMD_0000779 This class represents a proce
+  IRI: https://w3id.org/emmo#EMMO_dacfc7dc_5ddb_4f67_986b_dcd01d649d60
+  Check:     reachable=True     title in result=True     title='EMMO_dacfc7dc_5ddb_4f67_986b_dcd01d649d60'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_dacfc7dc_5ddb_4f67_986b_dcd01d649d60
+  --------------------
+  Context: hanging the shape.
+From EMMO: https://w3id.org/emmo#EMMO_dacfc7dc_5ddb_4f67_986b_dcd01d649d60 This is under MaterialTreatme
+  IRI: https://kupferdigital.gitlab.io/ontologies/kdo/Quenching
+  Check:     reachable=404     title in result=False     title='Quenching'     final_url=https://kupferdigital.gitlab.io/ontologies/kdo/Quenching
+  --------------------
+  Context: upferDigital Copper Ontology: https://kupferdigital.gitlab.io/ontologies/kdo/Quenching This class represents the que
+  Summary: 2/3 IRIs are reachable, 2/3 responses contain the title.
+  ====================
+Processing item with id: 3 (index: 2), found 4 IRIs:
+  IRI: https://w3id.org/pmd/co/PMD_0010003
+  Check:     reachable=True     title in result=True     title='PMD_0010003'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: of the stainless steel class (https://w3id.org/pmd/co/PMD_0010003).
+Then, you represent the all
+  IRI: https://w3id.org/pmd/co/PMD_0020029
+  Check:     reachable=True     title in result=True     title='PMD_0020029'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: lements:
+Portion of chromium (https://w3id.org/pmd/co/PMD_0020029) for the 16–18% Cr content,
+P
+  IRI: https://w3id.org/pmd/co/PMD_0020051
+  Check:     reachable=True     title in result=True     title='PMD_0020051'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: r content,
+Portion of nickel (https://w3id.org/pmd/co/PMD_0020051) for the 10–14% Ni content,
+P
+  IRI: https://w3id.org/pmd/co/PMD_0020078
+  Check:     reachable=True     title in result=True     title='PMD_0020078'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: ontent,
+Portion of manganese (https://w3id.org/pmd/co/PMD_0020078) for the max 2% Mn content.
+E
+  Summary: 4/4 IRIs are reachable, 4/4 responses contain the title.
+  ====================
+Processing item with id: 4 (index: 3), found 0 IRIs:
+  Summary: 0/0 IRIs are reachable, 0/0 responses contain the title.
+  ====================
+Processing item with id: 5 (index: 4), found 2 IRIs:
+  IRI: https://w3id.org/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb
+  Check:     reachable=True     title in result=True     title='EMMO_463bcfda_867b_41d9_a967_211d4d437cfb'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb
+  --------------------
+  Context: ogy, the class "Measurement" (https://w3id.org/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb) is defined as a subclass of 
+  IRI: https://w3id.org/emmo#EMMO_3b19eab4_79be_4b02_bdaf_ecf1f0067a68
+  Check:     reachable=True     title in result=True     title='EMMO_3b19eab4_79be_4b02_bdaf_ecf1f0067a68'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_3b19eab4_79be_4b02_bdaf_ecf1f0067a68
+  --------------------
+  Context: ver.
+The class "Observation" (https://w3id.org/emmo#EMMO_3b19eab4_79be_4b02_bdaf_ecf1f0067a68) is a subclass of "Determinat
+  Summary: 2/2 IRIs are reachable, 2/2 responses contain the title.
+  ====================
+Processing item with id: 6 (index: 5), found 2 IRIs:
+  IRI: https://w3id.org/steel/ProcessOntology/Standard
+  Check:     reachable=True     title in result=True     title='Standard'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/Standard.ttl
+  --------------------
+  Context: .
+The class for standards is: https://w3id.org/steel/ProcessOntology/Standard
+The property to attach a stan
+  IRI: https://w3id.org/steel/ProcessOntology/hasStandard
+  Check:     reachable=True     title in result=True     title='hasStandard'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/hasStandard.ttl
+  --------------------
+  Context: h a standard to a process is: https://w3id.org/steel/ProcessOntology/hasStandard
+You would describe your proce
+  Summary: 2/2 IRIs are reachable, 2/2 responses contain the title.
+  ====================
+Processing item with id: 7 (index: 6), found 4 IRIs:
+  IRI: https://w3id.org/steel/ProcessOntology/ManufacturingProcess
+  Check:     reachable=404     title in result=False     title='ManufacturingProcess'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/ManufacturingProcess.ttl
+  --------------------
+  Context: class "ManufacturingProcess" (https://w3id.org/steel/ProcessOntology/ManufacturingProcess).
+Microstructure: The microst
+  IRI: https://w3id.org/steel/ProcessOntology/Microstructure
+  Check:     reachable=True     title in result=True     title='Microstructure'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/Microstructure.ttl
+  --------------------
+  Context: g the class "Microstructure" (https://w3id.org/steel/ProcessOntology/Microstructure). This class captures the mor
+  IRI: https://w3id.org/steel/ProcessOntology/GrainSize
+  Check:     reachable=True     title in result=True     title='GrainSize'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/GrainSize.ttl
+  --------------------
+  Context: d with the class "GrainSize" (https://w3id.org/steel/ProcessOntology/GrainSize).
+Linkage Property: Although 
+  IRI: https://w3id.org/steel/ProcessOntology/hasMicrostructureModel
+  Check:     reachable=True     title in result=True     title='hasMicrostructureModel'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/hasMicrostructureModel.ttl
+  --------------------
+  Context: ike "hasMicrostructureModel" (https://w3id.org/steel/ProcessOntology/hasMicrostructureModel) if you have a microstructure
+  Summary: 3/4 IRIs are reachable, 3/4 responses contain the title.
+  ====================
+Processing item with id: 8 (index: 7), found 4 IRIs:
+  IRI: https://w3id.org/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce,
+  Check:     reachable=True     title in result=True     title='EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce,'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce,
+  --------------------
+  Context: ess. The class for process is https://w3id.org/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce, which is a subclass of Persis
+  IRI: https://w3id.org/emmo#EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31.
+  Check:     reachable=True     title in result=False     title='EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31.'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31.
+  --------------------
+  Context: s a Collection class in EMMO: https://w3id.org/emmo#EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31. This class represents causal 
+  IRI: https://w3id.org/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce
+  Check:     reachable=True     title in result=True     title='EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce
+  --------------------
+  Context: dividual instance of Process (https://w3id.org/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce).
+Or create one Collection of
+  IRI: https://w3id.org/emmo#EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31
+  Check:     reachable=True     title in result=True     title='EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31
+  --------------------
+  Context: as an instance of Collection (https://w3id.org/emmo#EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31) and use the "Has Member" pro
+  Summary: 4/4 IRIs are reachable, 3/4 responses contain the title.
+  ====================
+Processing item with id: 9 (index: 8), found 4 IRIs:
+  IRI: https://w3id.org/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb
+  Check:     reachable=True     title in result=True     title='EMMO_463bcfda_867b_41d9_a967_211d4d437cfb'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb
+  --------------------
+  Context: Ontology:
+Measurement (EMMO): https://w3id.org/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb
+Defined as an intentional pro
+  IRI: https://w3id.org/emmo#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e
+  Check:     reachable=True     title in result=True     title='EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e
+  --------------------
+  Context: n.
+Measurement Result (EMMO): https://w3id.org/emmo#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e
+Represents the result of a me
+  IRI: https://w3id.org/emmo#EMMO_9be5fcc4_0d8b_481d_b984_6338d4b55588
+  Check:     reachable=True     title in result=True     title='EMMO_9be5fcc4_0d8b_481d_b984_6338d4b55588'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_9be5fcc4_0d8b_481d_b984_6338d4b55588
+  --------------------
+  Context: uncertainty.
+Measurer (EMMO): https://w3id.org/emmo#EMMO_9be5fcc4_0d8b_481d_b984_6338d4b55588
+An observer that uses a measu
+  IRI: https://w3id.org/steel/ProcessOntology/Laboratory
+  Check:     reachable=True     title in result=True     title='Laboratory'     final_url=https://materialdigital.github.io/stahldigital-ontology-public/ProcessOntology/Laboratory.ttl
+  --------------------
+  Context: ory (Steel Process Ontology): https://w3id.org/steel/ProcessOntology/Laboratory
+Represents a laboratory entit
+  Summary: 4/4 IRIs are reachable, 4/4 responses contain the title.
+  ====================
+Processing item with id: 10 (index: 9), found 2 IRIs:
+  IRI: https://w3id.org/pmd/co/PMD_0000992
+  Check:     reachable=True     title in result=True     title='PMD_0000992'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: tology defines "time series" (https://w3id.org/pmd/co/PMD_0000992) as a 1-D information content
+  IRI: https://w3id.org/emmo#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e
+  Check:     reachable=True     title in result=True     title='EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e
+  --------------------
+  Context: fines a "Measurement Result" (https://w3id.org/emmo#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e) as the result of a measureme
+  Summary: 2/2 IRIs are reachable, 2/2 responses contain the title.
+  ====================
+Processing item with id: 11 (index: 10), found 2 IRIs:
+  IRI: http://purl.obolibrary.org/obo/BFO_0000050
+  Check:     reachable=True     title in result=False     title='BFO_0000050'     final_url=https://www.ebi.ac.uk/ols4/ontologies/ro/properties?iri=http://purl.obolibrary.org/obo/BFO_0000050
+  --------------------
+  Context: O has the property "part of" (http://purl.obolibrary.org/obo/BFO_0000050). This relation is a generic 
+  IRI: https://w3id.org/emmo#EMMO_dc57d998_23db_4d8e_b2cd_f346b195b846
+  Check:     reachable=True     title in result=True     title='EMMO_dc57d998_23db_4d8e_b2cd_f346b195b846'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_dc57d998_23db_4d8e_b2cd_f346b195b846
+  --------------------
+  Context:  property "Has Spatial Part" (https://w3id.org/emmo#EMMO_dc57d998_23db_4d8e_b2cd_f346b195b846) with domain "CausalSystem". 
+  Summary: 2/2 IRIs are reachable, 1/2 responses contain the title.
+  ====================
+Processing item with id: 12 (index: 11), found 3 IRIs:
+  IRI: https://w3id.org/emmo#EMMO_36e69413_8c59_4799_946c_10b05d266e22
+  Check:     reachable=True     title in result=True     title='EMMO_36e69413_8c59_4799_946c_10b05d266e22'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_36e69413_8c59_4799_946c_10b05d266e22
+  --------------------
+  Context: elevant properties are:
+emmo
+(https://w3id.org/emmo#EMMO_36e69413_8c59_4799_946c_10b05d266e22) which relates a process to i
+  IRI: https://w3id.org/emmo#EMMO_c4bace1d_4db0_4cd3_87e9_18122bae2840
+  Check:     reachable=True     title in result=True     title='EMMO_c4bace1d_4db0_4cd3_87e9_18122bae2840'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_c4bace1d_4db0_4cd3_87e9_18122bae2840
+  --------------------
+  Context: ss to its input entity.
+emmo
+(https://w3id.org/emmo#EMMO_c4bace1d_4db0_4cd3_87e9_18122bae2840) which relates a process to i
+  IRI: https://w3id.org/emmo#EMMO_eaef29bd_bd79_4de1_b192_4fdc9016730b
+  Check:     reachable=True     title in result=True     title='EMMO_eaef29bd_bd79_4de1_b192_4fdc9016730b'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_eaef29bd_bd79_4de1_b192_4fdc9016730b
+  --------------------
+  Context: s to its output entity.
+emmo
+(https://w3id.org/emmo#EMMO_eaef29bd_bd79_4de1_b192_4fdc9016730b) which relates one process as
+  Summary: 3/3 IRIs are reachable, 3/3 responses contain the title.
+  ====================
+Processing item with id: 13 (index: 12), found 2 IRIs:
+  IRI: https://w3id.org/pmd/co/PMD_0025001
+  Check:     reachable=True     title in result=True     title='PMD_0025001'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: tology defines "composition" (https://w3id.org/pmd/co/PMD_0025001) as an intensive quality that
+  IRI: https://w3id.org/emmo#EMMO_909415d1_7c43_4d5e_bbeb_7e1910159f66
+  Check:     reachable=True     title in result=True     title='EMMO_909415d1_7c43_4d5e_bbeb_7e1910159f66'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_909415d1_7c43_4d5e_bbeb_7e1910159f66
+  --------------------
+  Context: y defines "Nominal Property" (https://w3id.org/emmo#EMMO_909415d1_7c43_4d5e_bbeb_7e1910159f66) as a property of a phenomeno
+  Summary: 2/2 IRIs are reachable, 2/2 responses contain the title.
+  ====================
+Processing item with id: 14 (index: 13), found 2 IRIs:
+  IRI: https://w3id.org/emmo#EMMO_e150fa8d_06dc_4bb8_bf95_04e2aea529c1
+  Check:     reachable=True     title in result=True     title='EMMO_e150fa8d_06dc_4bb8_bf95_04e2aea529c1'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_e150fa8d_06dc_4bb8_bf95_04e2aea529c1
+  --------------------
+  Context: Electrical Resistivity:
+
+IRI: https://w3id.org/emmo#EMMO_e150fa8d_06dc_4bb8_bf95_04e2aea529c1
+
+(This class is a derived qua
+  IRI: http://qudt.org/vocab/unit/MicroOhmCentimeter
+  Check:     reachable=404     title in result=False     title='MicroOhmCentimeter'     final_url=https://qudt.org/vocab/unit/MicroOhmCentimeter
+  --------------------
+  Context: for MicroOhmCentimeter:
+
+IRI: http://qudt.org/vocab/unit/MicroOhmCentimeter
+Express the numeric value as 
+  Summary: 1/2 IRIs are reachable, 1/2 responses contain the title.
+  ====================
+Processing item with id: 15 (index: 14), found 1 IRIs:
+  IRI: https://w3id.org/pmd/co/PMD_0000853.
+  Check:     reachable=True     title in result=False     title='PMD_0000853.'     final_url=https://materialdigital.github.io/core-ontology/ontology.ttl
+  --------------------
+  Context: ure in the PMD Core Ontology: https://w3id.org/pmd/co/PMD_0000853. This class is defined as an "
+  Summary: 1/1 IRIs are reachable, 0/1 responses contain the title.
+  ====================
+Processing item with id: 16 (index: 15), found 3 IRIs:
+  IRI: http://purl.obolibrary.org/obo/BFO_0000030
+  Check:     reachable=True     title in result=True     title='BFO_0000030'     final_url=https://ontobee.org/ontology/BFO?iri=http://purl.obolibrary.org/obo/BFO_0000030
+  --------------------
+  Context: test coupon):
+BFO class: bfo
+(http://purl.obolibrary.org/obo/BFO_0000030)
+It is a subclass of material
+  IRI: https://w3id.org/emmo#EMMO_4207e895_8b83_4318_996a_72cfb32acd94
+  Check:     reachable=True     title in result=True     title='EMMO_4207e895_8b83_4318_996a_72cfb32acd94'     final_url=https://emmo-repo.github.io/emmo.ttl#EMMO_4207e895_8b83_4318_996a_72cfb32acd94
+  --------------------
+  Context: s made of):
+EMMO class: emmo
+(https://w3id.org/emmo#EMMO_4207e895_8b83_4318_996a_72cfb32acd94)
+It is a subclass of Ordinary
+  IRI: http://purl.obolibrary.org/obo/BFO_0000023
+  Check:     reachable=True     title in result=True     title='BFO_0000023'     final_url=https://ontobee.org/ontology/BFO?iri=http://purl.obolibrary.org/obo/BFO_0000023
+  --------------------
+  Context: s in a test):
+BFO class: bfo
+(http://purl.obolibrary.org/obo/BFO_0000023)
+It is a subclass of realizab
+  Summary: 3/3 IRIs are reachable, 3/3 responses contain the title.
+  ====================
+Overall Summary:
+Index | ID | Total IRIs | Reachable IRIs | Titles in Result
+0 | 1 | 7 | 7 | 7
+1 | 2 | 3 | 2 | 2
+2 | 3 | 4 | 4 | 4
+3 | 4 | 0 | 0 | 0
+4 | 5 | 2 | 2 | 2
+5 | 6 | 2 | 2 | 2
+6 | 7 | 4 | 3 | 3
+7 | 8 | 4 | 4 | 3
+8 | 9 | 4 | 4 | 4
+9 | 10 | 2 | 2 | 2
+10 | 11 | 2 | 2 | 1
+11 | 12 | 3 | 3 | 3
+12 | 13 | 2 | 2 | 2
+13 | 14 | 2 | 1 | 1
+14 | 15 | 1 | 1 | 0
+15 | 16 | 3 | 3 | 3
+total | | 45 | 42 | 39
+Answers with at least one reachable IRI with title in result: 14 (87.50%)
+Answers with all IRIs reachable: 12 (75.00%)
+Answers with all IRIs good: 9 (56.25%)
